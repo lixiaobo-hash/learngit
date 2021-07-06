@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bigwork:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/bigwork_jar</output-path>
+    <root id="archive" name="bigwork.jar" />
+  </artifact>
+</component>
